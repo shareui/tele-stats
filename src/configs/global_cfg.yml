@@ -1,0 +1,11 @@
+bot_token: "bot_token"
+update_time: 1 # in hours
+channel_id: -1003109243103 # bot api id(not tg api)
+tg_username: "tgusername"
+
+services:
+  gitlab: true
+  github: false # not ready
+  tiktok: false # not ready
+  faceit: false # not ready
+  dota: false # not ready

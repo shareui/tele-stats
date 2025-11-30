@@ -1,0 +1,110 @@
+gitlab_token: "your_gitlab_token" # grant permission to see private/public repositories
+message_id: 50 # if 0 = sending a new one
+private_repo: true # whether to take private repositories into account
+quote: true # for the list of langs
+max_langs: 10 # number of languages displayed
+gitlab_username: "ur_gitlab_username"
+
+languages:
+  py: Python
+  js: JavaScript
+  ts: TypeScript
+  html: HTML
+  css: CSS
+  scss: SCSS
+  java: Java
+  c: C
+  cpp: C++
+  h: H/H++
+  cs: C#
+  php: PHP
+  rb: Ruby
+  go: Go
+  swift: Swift
+  kt: Kotlin
+  sh: Shell
+  rs: Rust
+  vue: Vue
+  jsx: React JSX
+  tsx: React TSX
+  gd: GDscript
+  kts: Kotlin
+  nix: Nix
+  cr: Crystal
+  exs: Elixir
+  ex: Elixir
+  bash: Bash
+  toml: Rust
+  dart: Dart
+  lua: Lua
+  r: R
+  pl: Perl
+  pm: Perl
+  m: Objective-C
+  mm: Objective-C++
+  fs: F#
+  fsi: F# Interface
+  f90: Fortran
+  f95: Fortran
+  f03: Fortran
+  f: Fortran
+  jl: Julia
+  scala: Scala
+  clj: Clojure
+  cljs: ClojureScript
+  coffee: CoffeeScript
+  v: Verilog
+  sv: SystemVerilog
+  vhd: VHDL
+  hs: Haskell
+  lhs: Literate Haskell
+  ml: OCaml
+  mli: OCaml Interface
+  erl: Erlang
+  hrl: Erlang Header
+  pas: Pascal
+  pp: Pascal
+  nim: Nim
+  zig: Zig
+  asm: Assembly
+  s: Assembly
+  ahk: AutoHotkey
+  awk: AWK
+  groovy: Groovy
+  vbs: VBScript
+  bas: BASIC
+  lisp: Lisp
+  el: Emacs Lisp
+  scm: Scheme
+  rkt: Racket
+  hx: Haxe
+  vala: Vala
+  pawn: Pawn
+  ps1: PowerShell
+  tcl: Tcl
+  d: D
+  rex: Rexx
+  sql: SQL
+  pwn: Pawn
+  mcfunction: Minecraft Function
+  gml: GameMaker Language
+  gdns: Godot NativeScript
+  bf: Brainfuck
+  io: Io
+  "4th": Forth
+  vb: Visual Basic
+  ada: Ada
+  adb: Ada Body
+  ads: Ada Spec
+  vert: GLSL
+  frag: GLSL
+  geom: GLSL
+  tesc: GLSL
+  tese: GLSL
+  comp: GLSL
+  glsl: GLSL
+  tscn: GDscene
+  scn: GDscene
+  rune: Runic
+  gdshader: GDshaders
+  # format: lang name
