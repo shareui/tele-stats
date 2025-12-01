@@ -1,0 +1,17 @@
+# bot token tg
+bot_token: "token"
+ # in hours
+update_time: 1
+# bot api id(not tg api)
+channel_id: -1
+# ur tg username
+tg_username: "username"
+# if true, continue on errors without prompt
+ignore_errors: false
+
+services:
+  gitlab: true
+  github: false # not ready
+  tiktok: false # not ready
+  faceit: false # not ready
+  dota: false # not ready

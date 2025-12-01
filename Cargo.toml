@@ -1,0 +1,18 @@
+[package]
+name = "tele-stats"
+version = "0.1.1" # DON'T FORGET TO CHANGE VER
+edition = "2021"
+
+[dependencies]
+teloxide = { version = "0.13", features = ["macros"] } # framework
+tokio = { version = "1", features = ["full"] } # async runtime
+log = "0.4" # log facade
+env_logger = "0.11" # logger implementation
+serde = { version = "1.0", features = ["derive"] } # ser-ion/des-on
+serde_yaml = "0.9" # yмl parsing
+reqwest = { version = "0.12", features = ["json"] } # http client
+serde_json = "1.0" # json pars
+chrono = "0.4" # date/time handling
+thiserror = "1.0" # err handling
+urlencoding = "2.1" # url enc
+base64 = "0.22" # enc/dec
