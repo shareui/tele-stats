@@ -1,5 +1,5 @@
 # bot token tg
-bot_token: "token"
+bot_token: "bot_token"
  # in hours
 update_time: 1
 # bot api id(not tg api)
@@ -11,7 +11,7 @@ ignore_errors: false
 
 services:
   gitlab: true
-  github: false # not ready
+  github: true
   tiktok: false # not ready
   faceit: false # not ready
   dota: false # not ready

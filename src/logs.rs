@@ -28,7 +28,7 @@ pub fn init() {
 }  
   
 pub fn bot_started() {  
-    log::info!("telestats started. version: 0.1.1");
+    log::info!("telestats started. version: 0.2.0");
 }  
   
 pub fn next_update(hours: u64) {  

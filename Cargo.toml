@@ -1,6 +1,6 @@
 [package]
 name = "tele-stats"
-version = "0.1.1" # DON'T FORGET TO CHANGE VER
+version = "0.2.0" # DON'T FORGET TO CHANGE VER
 edition = "2021"
 
 [dependencies]
