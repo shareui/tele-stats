@@ -16,7 +16,7 @@ The bot is completely self-hosted.
 
 ### If you are using VDS/VSL host
 ```bash
-{pkg manager} install cargo && {plg manager} install git && git clone https://github.com/shareui/tele-stats && cd tele-stats-main
+{pkg manager} install cargo && {pkg manager} install git && git clone https://github.com/shareui/tele-stats && cd tele-stats-main
 ```
 Then change the bot settings in the configs/ folder
 ```bash
