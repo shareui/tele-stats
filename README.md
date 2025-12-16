@@ -4,7 +4,7 @@ A self-hosted bot for displaying (auto-updating) your static content in Telegram
 
 ## Supported stats
 - [x] GitLab
-- [ ] GitHub
+- [x] GitHub
 - [ ] TikTok
 - [ ] Faceit
 - [ ] Dota 2
